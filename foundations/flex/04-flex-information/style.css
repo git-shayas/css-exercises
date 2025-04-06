@@ -24,3 +24,21 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title {
+  text-align: center;
+}
+
+.info-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 960px;
+  margin: 0px auto;
+  margin-top: 24px;
+}
+
+.info {
+  text-align: center;
+  margin: 0px 16px;
+}
